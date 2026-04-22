@@ -110,7 +110,7 @@ def _all_names(landmark: dict) -> list[str]:
 
 
 # ---------------------------------------------------------------------------
-# Language detection
+# 1. Language detection
 # ---------------------------------------------------------------------------
 
 def detect_language(text: str) -> str:
@@ -197,7 +197,7 @@ _ROAD_PREFIX_RE = re.compile(
 
 
 # ---------------------------------------------------------------------------
-# Modifier extraction
+# 2. Modifier extraction
 # ---------------------------------------------------------------------------
 
 def extract_modifier(text: str) -> tuple[str | None, int, int]:
@@ -256,7 +256,7 @@ def _candidate_queries(
 
 
 # ---------------------------------------------------------------------------
-# Fuzzy landmark matching
+# 3. Fuzzy landmark matching
 # ---------------------------------------------------------------------------
 
 def fuzzy_match_landmark(
