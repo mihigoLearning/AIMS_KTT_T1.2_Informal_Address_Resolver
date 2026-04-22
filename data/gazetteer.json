@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Kimironko Market",
+    "aliases": [
+      "Marché Kimironko",
+      "Isoko ya Kimironko"
+    ],
+    "type": "market",
+    "lat": -1.9382,
+    "lon": 30.1083,
+    "district": "Gasabo"
+  },
+  {
+    "id": 2,
+    "name": "Nyabugogo Bus Terminal",
+    "aliases": [
+      "Gare de Nyabugogo",
+      "Sitasiyo ya Nyabugogo"
+    ],
+    "type": "stop",
+    "lat": -1.9302,
+    "lon": 30.0494,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 3,
+    "name": "Kigali Convention Centre",
+    "aliases": [
+      "KCC",
+      "Inzu y'Inama"
+    ],
+    "type": "building",
+    "lat": -1.9464,
+    "lon": 30.0619,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 4,
+    "name": "Union Trade Centre",
+    "aliases": [
+      "UTC",
+      "Centre Commercial Union"
+    ],
+    "type": "market",
+    "lat": -1.953,
+    "lon": 30.0589,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 5,
+    "name": "Remera Roundabout",
+    "aliases": [
+      "Carrefour Remera",
+      "Akarere ka Remera"
+    ],
+    "type": "stop",
+    "lat": -1.9493,
+    "lon": 30.1079,
+    "district": "Gasabo"
+  },
+  {
+    "id": 6,
+    "name": "Sonatubes",
+    "aliases": [
+      "Sonatubes Kacyiru",
+      "Sonatubes"
+    ],
+    "type": "building",
+    "lat": -1.9378,
+    "lon": 30.0743,
+    "district": "Gasabo"
+  },
+  {
+    "id": 7,
+    "name": "Kigali Heights",
+    "aliases": [
+      "Kigali Heights Mall",
+      "Kabari ya Kigali Heights"
+    ],
+    "type": "market",
+    "lat": -1.9393,
+    "lon": 30.0791,
+    "district": "Gasabo"
+  },
+  {
+    "id": 8,
+    "name": "Saint Michel Church",
+    "aliases": [
+      "Église Saint Michel",
+      "Itorero rya Saint Michel"
+    ],
+    "type": "church",
+    "lat": -1.9553,
+    "lon": 30.0601,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 9,
+    "name": "Nyamirambo Mosque",
+    "aliases": [
+      "Grande Mosquée",
+      "Musigiti ya Nyamirambo"
+    ],
+    "type": "church",
+    "lat": -1.977,
+    "lon": 30.0428,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 10,
+    "name": "Petite Barrière",
+    "aliases": [
+      "Petite Barrière",
+      "Barikiyeri Nto"
+    ],
+    "type": "stop",
+    "lat": -1.9453,
+    "lon": 30.0543,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 11,
+    "name": "Grande Barrière",
+    "aliases": [
+      "Grande Barrière",
+      "Barikiyeri Nkuru"
+    ],
+    "type": "stop",
+    "lat": -1.9432,
+    "lon": 30.0531,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 12,
+    "name": "Gisozi Memorial",
+    "aliases": [
+      "Mémorial de Gisozi",
+      "Inkumbura ya Gisozi"
+    ],
+    "type": "building",
+    "lat": -1.9278,
+    "lon": 30.0773,
+    "district": "Gasabo"
+  },
+  {
+    "id": 13,
+    "name": "Kibagabaga Hospital",
+    "aliases": [
+      "Hôpital Kibagabaga",
+      "Ibitaro bya Kibagabaga"
+    ],
+    "type": "pharmacy",
+    "lat": -1.9233,
+    "lon": 30.1098,
+    "district": "Gasabo"
+  },
+  {
+    "id": 14,
+    "name": "King Faisal Hospital",
+    "aliases": [
+      "Hôpital King Faisal",
+      "Ibitaro bya King Faisal"
+    ],
+    "type": "pharmacy",
+    "lat": -1.9342,
+    "lon": 30.078,
+    "district": "Gasabo"
+  },
+  {
+    "id": 15,
+    "name": "CHUK Hospital",
+    "aliases": [
+      "CHUK",
+      "Ibitaro bya CHUK"
+    ],
+    "type": "pharmacy",
+    "lat": -1.9452,
+    "lon": 30.0571,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 16,
+    "name": "Kicukiro Centre",
+    "aliases": [
+      "Centre Kicukiro",
+      "Ikigo cya Kicukiro"
+    ],
+    "type": "stop",
+    "lat": -1.9726,
+    "lon": 30.0966,
+    "district": "Kicukiro"
+  },
+  {
+    "id": 17,
+    "name": "Gikondo Market",
+    "aliases": [
+      "Marché Gikondo",
+      "Isoko ya Gikondo"
+    ],
+    "type": "market",
+    "lat": -1.9644,
+    "lon": 30.072,
+    "district": "Kicukiro"
+  },
+  {
+    "id": 18,
+    "name": "Kigali International Airport",
+    "aliases": [
+      "Aéroport de Kigali",
+      "Ikaramu ry'Indege Kigali"
+    ],
+    "type": "building",
+    "lat": -1.969,
+    "lon": 30.1396,
+    "district": "Gasabo"
+  },
+  {
+    "id": 19,
+    "name": "Chez Lando Hotel",
+    "aliases": [
+      "Hôtel Chez Lando",
+      "Hoteli ya Chez Lando"
+    ],
+    "type": "building",
+    "lat": -1.936,
+    "lon": 30.08,
+    "district": "Gasabo"
+  },
+  {
+    "id": 20,
+    "name": "BPR Bank Kacyiru",
+    "aliases": [
+      "Banque Populaire Kacyiru",
+      "BPR Kacyiru"
+    ],
+    "type": "building",
+    "lat": -1.9354,
+    "lon": 30.0752,
+    "district": "Gasabo"
+  },
+  {
+    "id": 21,
+    "name": "Bank of Kigali HQ",
+    "aliases": [
+      "Banque de Kigali",
+      "BK HQ"
+    ],
+    "type": "building",
+    "lat": -1.951,
+    "lon": 30.0605,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 22,
+    "name": "MTN Centre Kigali",
+    "aliases": [
+      "MTN Kigali",
+      "Centre ya MTN"
+    ],
+    "type": "building",
+    "lat": -1.9497,
+    "lon": 30.0618,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 23,
+    "name": "Primus Factory",
+    "aliases": [
+      "Brasserie Primus",
+      "Fabrique ya Primus"
+    ],
+    "type": "building",
+    "lat": -1.958,
+    "lon": 30.049,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 24,
+    "name": "Rwanda Parliament",
+    "aliases": [
+      "Parlement rwandais",
+      "Inteko Ishinga Amategeko"
+    ],
+    "type": "building",
+    "lat": -1.9441,
+    "lon": 30.0697,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 25,
+    "name": "Kigali City Hall",
+    "aliases": [
+      "Hôtel de Ville",
+      "Inyubako ya Mairie"
+    ],
+    "type": "building",
+    "lat": -1.9499,
+    "lon": 30.0605,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 26,
+    "name": "Kigali Post Office",
+    "aliases": [
+      "Bureau de Poste",
+      "Posita ya Kigali"
+    ],
+    "type": "building",
+    "lat": -1.9511,
+    "lon": 30.058,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 27,
+    "name": "Canal Olympia",
+    "aliases": [
+      "Cinéma Canal Olympia",
+      "Cinema Canal"
+    ],
+    "type": "building",
+    "lat": -1.97,
+    "lon": 30.098,
+    "district": "Kicukiro"
+  },
+  {
+    "id": 28,
+    "name": "Simba Supermarket Remera",
+    "aliases": [
+      "Supermarché Simba",
+      "Iduka rya Simba"
+    ],
+    "type": "market",
+    "lat": -1.948,
+    "lon": 30.105,
+    "district": "Gasabo"
+  },
+  {
+    "id": 29,
+    "name": "Gisimenti Health Centre",
+    "aliases": [
+      "Centre de Santé Gisimenti",
+      "Ivuriro rya Gisimenti"
+    ],
+    "type": "pharmacy",
+    "lat": -1.945,
+    "lon": 30.102,
+    "district": "Gasabo"
+  },
+  {
+    "id": 30,
+    "name": "Kacyiru Police Station",
+    "aliases": [
+      "Commissariat Kacyiru",
+      "Polisi ya Kacyiru"
+    ],
+    "type": "building",
+    "lat": -1.936,
+    "lon": 30.071,
+    "district": "Gasabo"
+  },
+  {
+    "id": 31,
+    "name": "Nyarutarama Mall",
+    "aliases": [
+      "Mall de Nyarutarama",
+      "Nyarutarama"
+    ],
+    "type": "market",
+    "lat": -1.9298,
+    "lon": 30.101,
+    "district": "Gasabo"
+  },
+  {
+    "id": 32,
+    "name": "Kimisagara Market",
+    "aliases": [
+      "Marché Kimisagara",
+      "Isoko ya Kimisagara"
+    ],
+    "type": "market",
+    "lat": -1.9612,
+    "lon": 30.0471,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 33,
+    "name": "Biryogo Market",
+    "aliases": [
+      "Marché Biryogo",
+      "Isoko ya Biryogo"
+    ],
+    "type": "market",
+    "lat": -1.96,
+    "lon": 30.053,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 34,
+    "name": "Kagarama Health Centre",
+    "aliases": [
+      "Centre de Santé Kagarama",
+      "Ivuriro rya Kagarama"
+    ],
+    "type": "pharmacy",
+    "lat": -1.9808,
+    "lon": 30.0911,
+    "district": "Kicukiro"
+  },
+  {
+    "id": 35,
+    "name": "Vision 2020 Roundabout",
+    "aliases": [
+      "Carrefour Vision 2020",
+      "Akarere Vision 2020"
+    ],
+    "type": "stop",
+    "lat": -1.9238,
+    "lon": 30.0832,
+    "district": "Gasabo"
+  },
+  {
+    "id": 36,
+    "name": "Ndera Psychiatric Hospital",
+    "aliases": [
+      "Hôpital Ndera",
+      "Ibitaro bya Ndera"
+    ],
+    "type": "pharmacy",
+    "lat": -1.9097,
+    "lon": 30.1214,
+    "district": "Gasabo"
+  },
+  {
+    "id": 37,
+    "name": "RBC Kacyiru",
+    "aliases": [
+      "Rwanda Biomedical Centre",
+      "RBC"
+    ],
+    "type": "building",
+    "lat": -1.9345,
+    "lon": 30.0765,
+    "district": "Gasabo"
+  },
+  {
+    "id": 38,
+    "name": "MINISANTE",
+    "aliases": [
+      "Ministère de la Santé",
+      "Minisante"
+    ],
+    "type": "building",
+    "lat": -1.9335,
+    "lon": 30.0755,
+    "district": "Gasabo"
+  },
+  {
+    "id": 39,
+    "name": "Kabeza Shopping Centre",
+    "aliases": [
+      "Centre Commercial Kabeza",
+      "Kabeza"
+    ],
+    "type": "market",
+    "lat": -1.975,
+    "lon": 30.105,
+    "district": "Kicukiro"
+  },
+  {
+    "id": 40,
+    "name": "Magerwa",
+    "aliases": [
+      "Magerwa Gikondo",
+      "Magerwa"
+    ],
+    "type": "building",
+    "lat": -1.966,
+    "lon": 30.068,
+    "district": "Kicukiro"
+  },
+  {
+    "id": 41,
+    "name": "Equity Bank Remera",
+    "aliases": [
+      "Equity Bank",
+      "Banki ya Equity"
+    ],
+    "type": "building",
+    "lat": -1.949,
+    "lon": 30.106,
+    "district": "Gasabo"
+  },
+  {
+    "id": 42,
+    "name": "Nakumatt Supermarket",
+    "aliases": [
+      "Carrefour Kigali",
+      "Supermarché Kigali"
+    ],
+    "type": "market",
+    "lat": -1.9519,
+    "lon": 30.0572,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 43,
+    "name": "Kacyiru Health Centre",
+    "aliases": [
+      "Centre de Santé Kacyiru",
+      "Ivuriro rya Kacyiru"
+    ],
+    "type": "pharmacy",
+    "lat": -1.938,
+    "lon": 30.073,
+    "district": "Gasabo"
+  },
+  {
+    "id": 44,
+    "name": "Kabusunzu Market",
+    "aliases": [
+      "Marché Kabusunzu",
+      "Isoko ya Kabusunzu"
+    ],
+    "type": "market",
+    "lat": -1.927,
+    "lon": 30.0921,
+    "district": "Gasabo"
+  },
+  {
+    "id": 45,
+    "name": "Rebero Hill",
+    "aliases": [
+      "Colline Rebero",
+      "Umusozi wa Rebero"
+    ],
+    "type": "building",
+    "lat": -1.982,
+    "lon": 30.084,
+    "district": "Kicukiro"
+  },
+  {
+    "id": 46,
+    "name": "Amahoro National Stadium",
+    "aliases": [
+      "Stade Amahoro",
+      "Sitade ya Amahoro"
+    ],
+    "type": "building",
+    "lat": -1.9432,
+    "lon": 30.1042,
+    "district": "Gasabo"
+  },
+  {
+    "id": 47,
+    "name": "Nyanza Bus Stop",
+    "aliases": [
+      "Arrêt Nyanza",
+      "Amaferwa ya Nyanza"
+    ],
+    "type": "stop",
+    "lat": -1.98,
+    "lon": 30.071,
+    "district": "Kicukiro"
+  },
+  {
+    "id": 48,
+    "name": "RN3 Pharmacy",
+    "aliases": [
+      "Pharmacie RN3",
+      "Farumasi ya RN3"
+    ],
+    "type": "pharmacy",
+    "lat": -1.944,
+    "lon": 30.065,
+    "district": "Nyarugenge"
+  },
+  {
+    "id": 49,
+    "name": "Gikondo Bus Stop",
+    "aliases": [
+      "Arrêt Gikondo",
+      "Amaferwa ya Gikondo"
+    ],
+    "type": "stop",
+    "lat": -1.966,
+    "lon": 30.073,
+    "district": "Kicukiro"
+  },
+  {
+    "id": 50,
+    "name": "Kinyinya Market",
+    "aliases": [
+      "Marché Kinyinya",
+      "Isoko ya Kinyinya"
+    ],
+    "type": "market",
+    "lat": -1.9162,
+    "lon": 30.1103,
+    "district": "Gasabo"
+  }
+]
