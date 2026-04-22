@@ -8,7 +8,7 @@
 ## Tools Used
 
 ### Tool 1 — Claude
-- **Purpose:** Scaffolding repo structure, writing initial resolver pipeline, debugging fuzzy matching failures, generating correction_flow.md content, writing unit tests
+- **Purpose:** Scaffolding repo structure, writing initial resolver pipeline, debugging fuzzy matching failures
 - **Sample prompts used:**
 
   *"The query 'ku muhanda ujya Remera hafi ya Airtel' returns None. The road prefix is contaminating the fuzzy match. Fix the matching pipeline to extract text after the modifier first."*

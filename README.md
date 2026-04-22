@@ -1,6 +1,7 @@
 # AIMS_KTT_T1.2_Informal_Address_Resolver
 AIMS KTT Hackathon - Fragmented Address Mapping
 
+# Group 4 
 # T1.2 · Informal Address Resolver
 
 **Challenge ID:** T1.2   
